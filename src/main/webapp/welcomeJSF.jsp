@@ -20,7 +20,7 @@
                             <h:form>
                                 <h1>
                                     <h:outputText
-                                        value="Hello World!! - Changed by Josh - Today is May 13th, 2025 9:52pm" />
+                                        value="Hello World!! - Changed by Josh - Today is May 15th, 2025 7:12pm" />
                                 </h1>
                                 <br />
                                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos"
